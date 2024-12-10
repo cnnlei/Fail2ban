@@ -171,9 +171,9 @@ if [[ ${OS} =~ ^Ubuntu$|^Debian$ ]]; then
   service ssh restart
 fi
 echo ""
-echo 'Telegram Group: https://t.me/functionclub'
-echo 'Google Puls: https://plus.google.com/communities/113154644036958487268'
-echo 'Github: https://github.com/FunctionClub'
-echo 'QQ Group:277717865'
+echo '完成'
+echo '完成'
+echo '完成'
+echo '完成'
 
 echo "Fail2ban is now runing on this server now!"
